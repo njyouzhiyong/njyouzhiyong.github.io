@@ -16,6 +16,7 @@ tags:
 1. 新建 vm_sandbox.bat 文件
 2. 复制下面代码到 vm_sandbox.bat 文件中
 > 注意：以ANSI编码保存，防止中文乱码。
+
 ```bash
 cls
 @ECHO OFF
@@ -74,4 +75,5 @@ GOTO MENU
 shutdown -r -c "立即重启" -t 0
 
 ```
+
 3. 以“管理员身份”运行 vm_sandbox.bat
