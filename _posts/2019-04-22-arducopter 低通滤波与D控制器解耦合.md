@@ -42,3 +42,8 @@ tags:
 ![set_input_filter_all_2](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/set_input_filter_all_2.png)<br>
 ![set_input_filter_all_3](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/set_input_filter_all_3.png)<br>
 
+请我喝杯咖啡如何？
+---
+![weixinfukuan](https://github.com/SuWeipeng/img/raw/master/weixinfukuan.jpg)<br>
+![zhifubaofukuan](https://github.com/SuWeipeng/img/raw/master/zhifubaofukuan.jpg)<br>
+![weixinhaoyou](https://github.com/SuWeipeng/img/raw/master/weixinhaoyou.png)<br>
