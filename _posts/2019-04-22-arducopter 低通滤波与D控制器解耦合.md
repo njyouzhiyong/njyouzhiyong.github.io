@@ -44,6 +44,9 @@ tags:
 
 请我喝杯咖啡如何？
 ---
-![weixinfukuan](https://github.com/SuWeipeng/img/raw/master/weixinfukuan.jpg)<br>
-![zhifubaofukuan](https://github.com/SuWeipeng/img/raw/master/zhifubaofukuan.jpg)<br>
+![weixinfukuan](https://github.com/SuWeipeng/img/raw/master/weixinfukuan.jpg)
+![zhifubaofukuan](https://github.com/SuWeipeng/img/raw/master/zhifubaofukuan.jpg)
+
+微信好友
+---
 ![weixinhaoyou](https://github.com/SuWeipeng/img/raw/master/weixinhaoyou.png)<br>
