@@ -44,7 +44,9 @@ tags:
 
 请我喝杯咖啡如何？
 ---
+微信
 ![weixinfukuan](https://github.com/SuWeipeng/img/raw/master/weixinfukuan.jpg)
+支付宝
 ![zhifubaofukuan](https://github.com/SuWeipeng/img/raw/master/zhifubaofukuan.jpg)
 
 微信好友
