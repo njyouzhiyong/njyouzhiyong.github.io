@@ -37,11 +37,11 @@ ardupilot 中的模拟量电源监测
 
 [ArduPilotLog](https://github.com/SuWeipeng/ArduPilotLog)退场，[MATLAB](https://github.com/SuWeipeng/ArduPilotLog/tree/master/matlab)登场
 ---
-1. MATLAB 登场方法
+*. MATLAB 登场方法
 > 详见[ArduPilotLog开源说明](https://github.com/SuWeipeng/ArduPilotLog)
 
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/ardupilotlog_1.png)
-2. 一些简单的分析
+*. 一些简单的分析
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/volt_current_14.png)
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/volt_current_15.png)
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/volt_current_16.png)
