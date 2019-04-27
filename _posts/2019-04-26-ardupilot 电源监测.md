@@ -8,6 +8,7 @@ header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - ardupilot
+    - ArduPilotLog
     - 少儿编程
     - 初中物理
 ---
