@@ -43,7 +43,7 @@ tags:
 > ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/arducopter_alt_control_V_code.png)
 
 * 终到加速度控制（加速度环）
-> 这里用到`set_input_filter_all`控制器，有关这个控制器以前在[arducopter 低通滤波与D控制器解耦合](https://suweipeng.github.io/2019/04/22/arducopter-%E4%BD%8E%E9%80%9A%E6%BB%A4%E6%B3%A2%E4%B8%8ED%E6%8E%A7%E5%88%B6%E5%99%A8%E8%A7%A3%E8%80%A6%E5%90%88/)中介绍过。
+> 这里用到 `set_input_filter_all` 控制器，有关这个控制器以前在[arducopter 低通滤波与D控制器解耦合](https://suweipeng.github.io/2019/04/22/arducopter-%E4%BD%8E%E9%80%9A%E6%BB%A4%E6%B3%A2%E4%B8%8ED%E6%8E%A7%E5%88%B6%E5%99%A8%E8%A7%A3%E8%80%A6%E5%90%88/)中介绍过。
 
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/arducopter_alt_control_A_PID.png)
 
@@ -70,7 +70,7 @@ tags:
 
 * 用好 MATLAB 的便利
 
-> 上面提到一个 `sqrt_controller` 译成普通话是`开方控制器`<br>
+> 上面提到一个 `sqrt_controller` 译成普通话是 `开方控制器`<br>
 > 有关开方控制器的更多信息，请点击[ ZingHD 的博文链接](https://zinghd.gitee.io/sqrt_controller-lean_angles_to_accel/)
 
 ![](https://github.com/SuWeipeng/img/raw/master/4_ardupilot/arducopter_to_matlab_method.png)
