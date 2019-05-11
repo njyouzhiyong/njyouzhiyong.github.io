@@ -80,7 +80,7 @@ tags:
 篇末提示
 ---
 1. 数据怎样进入 MATLAB 的，请看[ArduPilotLog开源说明](https://github.com/SuWeipeng/ArduPilotLog)。
-2. 支持 MATLAB 的版本是[ v1.01](https://github.com/SuWeipeng/ArduPilotLog/releases)，[百度网盘链接](https://pan.baidu.com/s/1hwnQ6RL8s9tQwfO6Shs_Xw)，提取码：x0iv 
+2. 支持 MATLAB 的版本是[ v1.0.1](https://github.com/SuWeipeng/ArduPilotLog/releases)，[百度网盘链接](https://pan.baidu.com/s/1hwnQ6RL8s9tQwfO6Shs_Xw)，提取码：x0iv 
 
 请我喝杯咖啡如何？
 ---
