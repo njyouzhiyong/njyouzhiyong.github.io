@@ -2,7 +2,7 @@
 layout:     post
 title:      跟着 ardupilot 学 C++ 系列之友元
 subtitle:   C++ 基础系列推文
-date:       2019-10-11
+date:       2019-10-12
 author:     Sugar
 header-img: img/post-bg-coffee.jpeg
 catalog: true
