@@ -1,13 +1,13 @@
 # Site settings
-title: 降解黑科技
-SEOTitle: 降解黑科技 | Interpretation of black technology
+title: 白猫
+SEOTitle: 白猫
 header-img: img/post-bg-desk.jpg
-email: weipeng.su@outlook.com
-description: "每个胜利背后都有许多尝试"
-keyword: "BY, black technology, 降解黑科技, suweipeng, 苏卫朋"
-url: "http://suweipeng.github.io"          # your host, for absolute URL
+email: no.com
+description: "no"
+keyword: "no"
+url: "http://njyouzhiyong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/suweipeng/suweipeng.github.io.git" # you code repository
+github_repo: "https://github.com/njyouzhiyong/njyouzhiyong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/weixin_suwp.png      # use absolute URL, seeing it's used i
 
 # SNS settings
 RSS: false
-# weibo_username:     suweipeng
-#zhihu_username:     suweipeng
-github_username:    suweipeng
-#facebook_username:  baiying.qiu.7
+# weibo_username:     njyouzhiyong
+#zhihu_username:     njyouzhiyong
+github_username:    njyouzhiyong
+#facebook_username:  njyouzhiyong.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   suweipeng
+#twitter_username:   njyouzhiyong
 
 
 
