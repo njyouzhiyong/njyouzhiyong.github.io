@@ -12,7 +12,7 @@ github_repo: "https://github.com/njyouzhiyong/njyouzhiyong.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "no money"
-#sidebar-avatar: /img/weixin_suwp.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/weixin.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
